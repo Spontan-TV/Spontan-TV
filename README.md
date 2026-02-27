@@ -2,8 +2,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Spontan-TV&label=Profile views&color=0e75b6&style=flat" alt="Spontan-TV" /> </p>
-
 - 🔭 I'm currently working on **Home and Garden Automation Technology **
 
 - 🌱 I'm currently learning **C and Neural networks to automate server Performance balancing in a Cluster**
